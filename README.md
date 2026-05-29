@@ -1,22 +1,30 @@
-# Foundry Cosmology / Keystone II Arabic Bundle
+# Deep Origin Theory / Keystone II Arabic Bundle
 
-This repository contains the outward-facing Arabic publication bundle for **Keystone II** inside **Foundry Cosmology**.
+This repository contains the outward-facing Arabic publication bundle for **Keystone II** inside **Deep Origin Theory**.
 
 ## Official External Title
 
-**Foundry Cosmology: A Source-Governed Framework for Curvature Response and Cosmological Dynamics**
+**Deep Origin Theory: A Source-Governed Generative Theory of Cosmology**
 
 Arabic:
 
-**Foundry Cosmology: إطار مصدري حاكم لاستجابة الانحناء والديناميك الكوني**
+**نظرية الأصل العميق: نظرية توليدية محكومة المصدر للكون**
+
+## Public Position
+
+This bundle is the approved Arabic outward release for Keystone II. It does not elevate workshop names or internal development labels into public authority.
 
 ## Included
 
 - `MAIN_SCIENTIFIC_PAPER_AR.md`
 - `EDITORIAL_POSITION.md`
 
-## Naming Rule
+## Reading Rule
 
-`The Governing Bridge Law` remains a lineage and internal formulation label.
+This repository does **not** present:
 
-It is not used here as the main outward-facing deposit title.
+- live workshop chains
+- unapproved closure claims
+- internal governance or operating packets
+
+It presents the Arabic-facing external bundle for reading and citation.
