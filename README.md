@@ -12,7 +12,7 @@ Arabic:
 
 ## Public Position
 
-This bundle is the approved Arabic outward release for Keystone II. It does not elevate workshop names or internal development labels into public authority.
+This bundle is the approved Arabic outward release for Keystone II. It does not elevate historical internal names or unfinished development material into public authority.
 
 ## Included
 
@@ -23,8 +23,8 @@ This bundle is the approved Arabic outward release for Keystone II. It does not 
 
 This repository does **not** present:
 
-- live workshop chains
+- unfinished internal development chains
 - unapproved closure claims
-- internal governance or operating packets
+- internal governance or operating records
 
 It presents the Arabic-facing external bundle for reading and citation.

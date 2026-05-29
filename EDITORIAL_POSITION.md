@@ -2,11 +2,11 @@
 
 ## Official title
 
-`Foundry Cosmology: A Source-Governed Framework for Curvature Response and Cosmological Dynamics`
+`Deep Origin Theory: A Source-Governed Framework for Curvature Response and Cosmological Dynamics`
 
 ## Official Arabic title
 
-`Foundry Cosmology: إطار مصدري حاكم لاستجابة الانحناء والديناميك الكوني`
+`نظرية الأصل العميق: إطار مصدري حاكم لاستجابة الانحناء والديناميك الكوني`
 
 ## Primary category
 
@@ -14,19 +14,19 @@
 
 ## Claim posture
 
-Foundry Cosmology is presented as:
+تُعرض نظرية الأصل العميق هنا بوصفها:
 
-- a source-governed theoretical framework
-- a locked physical kernel
-- a set of auditable response surfaces
+- إطارًا نظريًا محكومًا بالمصدر
+- نواة فيزيائية مغلقة
+- مجموعة من سطوح الاستجابة القابلة للتدقيق
 
-Foundry Cosmology is not presented as:
+ولا تُعرض بوصفها:
 
-- a completed theory of everything
-- a final observational cosmology
-- a learned emulator
-- a post-hoc fitting patch
-- a completed the live tail closure
+- نظرية مكتملة لكل شيء
+- كوزمولوجيا رصدية نهائية
+- محاكيًا متعلمًا
+- ترقيعًا ملائماتيًا لاحقًا
+- إغلاقًا نهائيًا لكل الامتدادات الجارية
 
 ## Governing Bridge Law placement
 
@@ -36,37 +36,37 @@ It should not be the main outward-facing title of the deposit.
 
 ## Main deposit contents
 
-The main paper should contain:
+يجب أن تتضمن الورقة الرئيسية:
 
-- Foundry Cosmology as one theory
-- the source-governed response principle
-- the locked physical kernel
-- the mathematical core
-- the curvature-response and cosmological-dynamics relation
-- falsifiability and reproducibility posture
-- scope limits and non-claims
+- نظرية الأصل العميق بوصفها نظرية واحدة
+- مبدأ الاستجابة المحكومة بالمصدر
+- النواة الفيزيائية المغلقة
+- القلب الرياضي
+- علاقة استجابة الانحناء بالديناميك الكوني
+- موقف القابلية للتكذيب وإمكان إعادة الإنتاج
+- حدود النطاق وما لا تدعيه النظرية
 
 ## Supplement posture
 
-The current gap report should not be framed externally under the title:
+لا ينبغي إخراج تقرير الفجوات الحالي خارجيًا تحت العنوان:
 
 `Theory of Everything Eligibility Gap Report`
 
-For external use, it should be reframed as:
+وللاستخدام الخارجي، ينبغي إعادة تأطيره على الصورة الآتية:
 
 `Supplementary Note S1: Scope, Non-Claims, and Open-Gap Register`
 
 ## Internal-only material
 
-The following remain outside the main external deposit:
+يبقى خارج الحزمة الخارجية الرئيسة:
 
-- live-tail development bundle
-- unresolved construction chains
-- long internal packets
-- unfinished observational-consumer paths
+- حزمة التطوير الداخلي الجارية
+- سلاسل البناء غير المحسومة
+- الحزم الداخلية الطويلة
+- المسارات الرصدية غير المكتملة
 
 ## Outward bundle naming rule
 
-The Arabic-facing publication bundle should follow the source-governed framework title externally.
+يجب أن تتبع الحزمة العربية المنشورة خارجيًا عنوان الإطار المحكوم بالمصدر.
 
 `The Governing Bridge Law` remains a lineage/internal formulation label, not the main outward-facing bundle title.
