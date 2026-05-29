@@ -1,6 +1,6 @@
 # Deep Origin Theory / Keystone II Arabic Bundle
 
-This repository contains the outward-facing Arabic publication bundle for **Keystone II** inside **Deep Origin Theory**.
+This repository contains the outward-facing **Arabic publication bundle** for **Keystone II** inside **Deep Origin Theory**.
 
 ## Official External Title
 
@@ -28,3 +28,7 @@ This repository does **not** present:
 - internal governance or operating records
 
 It presents the Arabic-facing external bundle for reading and citation.
+
+The matching English release mirror is carried in the umbrella public wave:
+
+- <https://github.com/osamaalhulays/deep-origin-theory/tree/main/ENGLISH/Keystone_II_Source_Governed_Framework_20260520>
